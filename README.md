@@ -6,4 +6,8 @@
 5.git reflog
 6.git log
 7.git reset --head
+
+8.git branch //查看所有分支
+9.git branch 分支名//创建分支
+10.git merge <文件名>  合并某分支到当前分支
 用来学习GitHub的远程仓库
